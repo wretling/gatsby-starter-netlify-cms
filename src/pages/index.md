@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Hello World!
-image: /img/img_2569.jpg
+image: /img/geometry-1023846_1280.jpg
 heading: 'Will code for burritos. '
 subheading: I am happy to be here...
 mainpitch:
